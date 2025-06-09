@@ -4,14 +4,14 @@ This repository contains my homework submission for practicing **Pandas data pro
 
 ---
 
-### 🧩 Business Problem
+### Business Problem
 
 Accurate and clean data is essential for making sound business decisions. This project simulated real-world data preprocessing challenges, using **US Census population data** (2010–2019) for all 50 states, the District of Columbia, and Puerto Rico.
 The tasks involved transforming raw census data into a clean, structured format ready for further analysis or machine learning, a common challenge for data scientists.
 
 ---
 
-### 📦 Dataset Overview
+### Dataset Overview
 
 The dataset, `census_statespop.csv`, included:
 
@@ -25,7 +25,7 @@ The dataset, `census_statespop.csv`, included:
 
 ---
 
-### 🎯 Project Objective
+### Project Objective
 
 This assignment aimed to:
 
@@ -40,7 +40,7 @@ This assignment aimed to:
 
 ---
 
-### 🛠️ Solution Approach
+### Solution Approach
 
 **1. Data Import and Exploration:**
 - Used `pd.read_csv()` to load and reformat column names dynamically
@@ -71,7 +71,7 @@ This assignment aimed to:
 
 ---
 
-### 💡 Business Value
+### Business Value
 
 Data preprocessing is a critical phase in the machine learning pipeline.  
 This project demonstrates the ability to:
@@ -83,7 +83,7 @@ This project demonstrates the ability to:
 
 ---
 
-### 🚧 Challenges Encountered
+### Challenges Encountered
 
 - Handling missing values correctly across both rows and columns
 - Keeping track of column renaming without manually typing every name
